@@ -1,0 +1,4 @@
+# wechatPlat
+
+## TODO
+ - deploy script
