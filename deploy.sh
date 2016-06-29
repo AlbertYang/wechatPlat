@@ -7,7 +7,7 @@ read -r -d '' command <<EOF
     ssh-add ~/.ssh/github
     cd /home/albert/Projects/wechatPlat
     git pull origin master
-    git
+    sudo uwsgi --reload /var/run/wechat_uwsgi.pid
     sudo service nginx restart
 EOF
 
