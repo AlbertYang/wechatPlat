@@ -1,6 +1,6 @@
 # 微信公众号：iZundoko
 
-![公众号二维码](http://pic-pool.qiniudn.com/qrcode/wechat_iZundoko_344x344.jpg)
+![公众号二维码](http://pic-pool.qiniudn.com/qrcode/wechat-iZundoko_344x344.jpg)
 
 ## ToDo List
  - 配置服务器
